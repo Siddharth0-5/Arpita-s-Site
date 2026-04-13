@@ -42,13 +42,13 @@ const ALL_IMAGES = [
 
 const CAROUSEL_IMAGES = ALL_IMAGES.slice(1);
 
-// Stable GIF URLs
+// Stable GIF URLs - using proper Giphy endpoints
 const GIFS = {
-  surprise: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/MDJ9IbM2LUufAgE4nL/giphy.gif",
-  angryCat: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/C9x8gX02SnMIo/giphy.gif",
-  sadCat: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v6aOjy0Qo1fIA/giphy.gif",
-  happyCat: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/11s7Ke7jkptCHu/giphy.gif",
-  celebrate: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lI4bYvXpMDmrfO/giphy.gif",
+  surprise: "https://media.giphy.com/media/3o6ZtpgLSa7f5PgSyQ/giphy.gif",
+  angryCat: "https://media.giphy.com/media/12L4nzddHvkpp2/giphy.gif",
+  sadCat: "https://media.giphy.com/media/4bWWN8modkIKQ/giphy.gif",
+  happyCat: "https://media.giphy.com/media/BzyTuYCmNriFt7th2z/giphy.gif",
+  celebrate: "https://media.giphy.com/media/sTXy0061R18Wysgdil/giphy.gif",
 };
 
 // --- Components ---
